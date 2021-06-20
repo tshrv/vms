@@ -1,0 +1,4424 @@
+[
+  {
+    "center_id": 663873,
+    "name": "Pusainta Saiyan HWC",
+    "address": "Pusainta Saiyan HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Saiyan",
+    "pincode": 283124,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "0b443306-e1b0-464d-abd0-2c1064cc1f87",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 662675,
+    "name": "Saurai Khandoli HWC Agra",
+    "address": "Khandoli Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Khandoli",
+    "pincode": 282006,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "2b11ba1e-73a9-4a2f-a9c9-94c7beaaea3e",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658287,
+    "name": "Gugawad Jagner HWC",
+    "address": "Gugawad Jagner HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Jagner",
+    "pincode": 283115,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "10637a1d-c8ac-4e87-8431-2465e84f6c03",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 697253,
+    "name": "CHC Saiyan 18 To 44 Yr",
+    "address": "Saiyan",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Saiyan",
+    "pincode": 283124,
+    "lat": 26,
+    "long": 77,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "09b84d2b-9f76-4fa6-b011-490c805fa0a7",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658281,
+    "name": "Bhai Baroli Ahir HWC By Kakua",
+    "address": "Bhai Baroli Ahir HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Baroli Ahir",
+    "pincode": 283125,
+    "lat": 27,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "cf369ffd-912f-486f-97fd-c3f61d9f499a",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658273,
+    "name": "Visheri Bhand Baroli Ahir HWC",
+    "address": "Visheri Bhand Baroli Ahir HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Baroli Ahir",
+    "pincode": 283125,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "ffe95ce6-402f-4b8a-9e35-e3dc52244c5c",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 572583,
+    "name": "UPHC DEORIROAD",
+    "address": "NEAR KALICHARAN SUMAN BIDHAYAK JI KOTHI DEORI ROAD ARGA",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282001,
+    "lat": 27,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "cf01b42e-ab9f-47be-9862-8dc65e1fc281",
+        "date": "19-06-2021",
+        "available_capacity": 5,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 5
+      }
+    ]
+  },
+  {
+    "center_id": 714797,
+    "name": "Kagarol Phc Kheragarh 18TO44YR",
+    "address": "KAGAROL KHERAGARH",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Kheragarh",
+    "pincode": 283121,
+    "lat": 26,
+    "long": 77,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "b4178377-9ce5-41aa-aaa6-e074a41569bc",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 662004,
+    "name": "Nagla Bel Etmadpur HWC",
+    "address": "Etmadpur",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Etmadpur",
+    "pincode": 283202,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "d2b4d950-cd4d-41fd-9416-e6103abe724f",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663826,
+    "name": "Patholi Bichpuri HWC",
+    "address": "Patholi Bichpuri HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Bichpuri",
+    "pincode": 283105,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "670eb06a-1c80-43e6-b926-4c2b8edb878c",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658271,
+    "name": "DaultaBad Fatehpur HWC",
+    "address": "DaultaBad Fatehpur HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehpur Sikri",
+    "pincode": 283110,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "35945978-3100-4cea-858c-707f42ece00f",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 722118,
+    "name": "Phc Basai Arela 45 PLUS Yr",
+    "address": "BASAI ARELA PINAHAT",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Pinahat",
+    "pincode": 283123,
+    "lat": 26,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "0a76845e-421e-4ace-84ba-1e4194fb1998",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 702544,
+    "name": "SNMC Agra Covaxin 18 To 44 Yr",
+    "address": "SNMC Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282002,
+    "lat": 27,
+    "long": 78,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "eb36d5b5-8276-4c65-b6be-0be0eed9e78a",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVAXIN",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 662345,
+    "name": "Dehtora Bichpuri HWC",
+    "address": "Nandini Arogya Kendra Kartik Risort Lakhanpur Shastri Puram",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Bichpuri",
+    "pincode": 282007,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "d5c85b45-9c9b-4b71-9324-ff4fb7e8e843",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658302,
+    "name": "Lalpur Kheragarh HWC CVXN",
+    "address": "Lalpur Kheragarh HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Kheragarh",
+    "pincode": 283121,
+    "lat": 25,
+    "long": 35,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "bb28ec6b-a7f6-4648-885d-ebfae18856d1",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 610593,
+    "name": "CHC Saiyan",
+    "address": "Saiyan Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Saiyan",
+    "pincode": 283124,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "c74fc093-4b12-4623-ab7d-bbe03502cbfa",
+        "date": "19-06-2021",
+        "available_capacity": 15,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 6,
+        "available_capacity_dose2": 9
+      }
+    ]
+  },
+  {
+    "center_id": 658325,
+    "name": "Rooppur Fatehabad HWC",
+    "address": "Rooppur Fatehabad HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Etmadpur",
+    "pincode": 283111,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "cbbea9bb-5dd7-46cb-980a-58a479b9f6a3",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 597720,
+    "name": "VIBHAV NAGAR UPHC",
+    "address": "VIBHAV NAGAR UPHC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282001,
+    "lat": 27,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "624dc66e-88ad-49fc-b1bf-777dd8549eb8",
+        "date": "19-06-2021",
+        "available_capacity": 6,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 6
+      }
+    ]
+  },
+  {
+    "center_id": 658280,
+    "name": "Semari Baroli Ahir HWC",
+    "address": "Semari Baroli Ahir HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Baroli Ahir",
+    "pincode": 283125,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "cfff573b-1e13-4929-812b-352fbe11430e",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 603393,
+    "name": "SNMC Agra COVAXINE 45 Plus",
+    "address": "MG RoadAgra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282002,
+    "lat": 27,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "6359a3f5-a344-4f11-aeae-2c5ff25a4ddd",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVAXIN",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 597970,
+    "name": "UPHC NARAYACH",
+    "address": "NARAYACH UPHC RAMBAGH AGRA SADHANA 9412493153",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282006,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "c9c6f6c4-d410-443c-a330-f38893e4d250",
+        "date": "19-06-2021",
+        "available_capacity": 10,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 10
+      }
+    ]
+  },
+  {
+    "center_id": 658323,
+    "name": "Thallugari Etmadpur HWC CVXN",
+    "address": "Thallugari Etmadpur HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Etmadpur",
+    "pincode": 283202,
+    "lat": 4,
+    "long": 54,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "708b2016-19ff-4457-9542-724a4b12a38b",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 595877,
+    "name": "UPHC SEWLA",
+    "address": "SEWLA Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282001,
+    "lat": 27,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "90dada54-7e5f-4462-acce-40cf3e360eba",
+        "date": "19-06-2021",
+        "available_capacity": 9,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 9
+      }
+    ]
+  },
+  {
+    "center_id": 609353,
+    "name": "UPHC LOHAMANDI SECOND",
+    "address": "Agarwal Sewa Sadan Loha Mandi Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282010,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "23b6094b-4a7d-4ed8-b3a3-095e5b4f7397",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658331,
+    "name": "Sarangpur Fatehabad HWC",
+    "address": "Sarangpur Fatehabad HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehabad",
+    "pincode": 283111,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "eb9c4c3d-4563-4035-a566-54ad3ccacee3",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658310,
+    "name": "Doki Shamsabad HWC",
+    "address": "Doki Shamsabad HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Shamsabad",
+    "pincode": 283125,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "fcf3f7c5-c2ff-4b5d-8569-0b227132ebd7",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658249,
+    "name": "Chh Pokhar Achnerra HWC",
+    "address": "Chh Pokhar Achnerra HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Achnera",
+    "pincode": 283101,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "6314c37d-94c7-4b70-88c9-be80a1c17809",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658263,
+    "name": "Mandimirja Khan Fatehpur HWC",
+    "address": "Mandimirja Khan Fatehpur Sikri HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehpur Sikri",
+    "pincode": 283110,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "853dcfb2-86bd-4685-906a-14333f807a9d",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 696146,
+    "name": "Police Staion Hospital",
+    "address": "Police LineAgra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282002,
+    "lat": 27,
+    "long": 77,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "859e21ec-e57c-45e5-89f5-6dcb97ec54bb",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 595859,
+    "name": "UPHC BALKESHWAR",
+    "address": "BALKESHWAR KAMLA NAGAR ARGA",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282004,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "cf866ead-e31e-4e4c-a69a-238f570200b1",
+        "date": "19-06-2021",
+        "available_capacity": 6,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 6
+      }
+    ]
+  },
+  {
+    "center_id": 658297,
+    "name": "Doongerwala Kheragarh HWC",
+    "address": "Doongerwala Kheragarh HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Kheragarh",
+    "pincode": 283121,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "0dde2972-2959-4acf-b9bd-c0a0f13b3ffc",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658305,
+    "name": "Chitora Shamsabad HWC",
+    "address": "Chitora Shamsabad HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Shamsabad",
+    "pincode": 283125,
+    "lat": 24,
+    "long": 25,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "207fced7-3527-49de-a2e2-0692dbe7c27a",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658294,
+    "name": "Beri Chahar Kheragarh HWC",
+    "address": "Beri Chahar Kheragarh HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Kheragarh",
+    "pincode": 283121,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "7f3d56ab-f6cd-4957-9575-815793dc5e01",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 627263,
+    "name": "MILLITARY HOSPITAL",
+    "address": "Prithaviraj RoadAgra CanttAgra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282001,
+    "lat": 27,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "f9e319a0-8252-4ce2-93b8-699fd60be6b6",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658279,
+    "name": "Kak Rari Baroli Ahir HWC",
+    "address": "Kak Rari Baroli Ahir HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Baroli Ahir",
+    "pincode": 283125,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "2d7f688c-4f14-460b-b6ef-302302bac700",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663872,
+    "name": "Nadeem Saiyan HWC",
+    "address": "Nadeem Saiyan HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Saiyan",
+    "pincode": 283124,
+    "lat": 24,
+    "long": 31,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "99c68288-8200-42a1-af5c-9d924489c755",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 597709,
+    "name": "RAKBGANJ SOUTH UPHC",
+    "address": "RAKBGANJ SOUTH UPHC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282001,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "24529a83-f152-4cbf-a709-2a799af53173",
+        "date": "19-06-2021",
+        "available_capacity": 11,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 1,
+        "available_capacity_dose2": 10
+      }
+    ]
+  },
+  {
+    "center_id": 610555,
+    "name": "CHC Fatehabad",
+    "address": "Fatehabad Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehabad",
+    "pincode": 283111,
+    "lat": 27,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "a653ea38-eb12-45ad-a0c3-430f8d3c3398",
+        "date": "19-06-2021",
+        "available_capacity": 23,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 15,
+        "available_capacity_dose2": 8
+      }
+    ]
+  },
+  {
+    "center_id": 714825,
+    "name": "Basai Arela Phc 18 TO 44 YR",
+    "address": "BASAI ARELA PHC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Pinahat",
+    "pincode": 283123,
+    "lat": 26,
+    "long": 78,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "1780dbc8-4e3f-4e04-a671-9947f9eca55e",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 598087,
+    "name": "MANTOLA UPHC AGRA",
+    "address": "SADAR BHATTI AVKARI MANTOLA THANA OPPO. ODISHA BULDING AGRA RENU 8630798330",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282001,
+    "lat": 27,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "4d1b028c-16ee-4ff5-a61d-0bfc42379dd6",
+        "date": "19-06-2021",
+        "available_capacity": 13,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 3,
+        "available_capacity_dose2": 10
+      }
+    ]
+  },
+  {
+    "center_id": 663880,
+    "name": "Rahlai Saiyan HWC",
+    "address": "Rahlai Saiyan HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Saiyan",
+    "pincode": 283125,
+    "lat": 45,
+    "long": 35,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "328d2d21-3ac8-4824-9cce-604952c86061",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 662701,
+    "name": "Chansaora HWC Jagner",
+    "address": "Chansaora HWC Jagner",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Jagner",
+    "pincode": 283115,
+    "lat": 26,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "69dfff04-bfb7-4f80-a85d-3ac7ca41d0e0",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 697232,
+    "name": "CHC Etmadpur 18 To 44 Yr",
+    "address": "ETMADPUR",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Etmadpur",
+    "pincode": 283202,
+    "lat": 27,
+    "long": 78,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "1196a55a-c24b-41fe-8e58-fc4e152a40a2",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658312,
+    "name": "Mutnai Shamsabad HWC",
+    "address": "Mutnai Shamsabad HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Shamsabad",
+    "pincode": 283125,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "2303a51c-9b3c-4d76-b9ca-8109a8dd1603",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658291,
+    "name": "Barigama Khurad Jagner HWC",
+    "address": "Barigama Khurad Jagner HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Jagner",
+    "pincode": 283115,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "84fe9a5c-0e66-4ec4-bfbe-fc5d93b4b7db",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658260,
+    "name": "Jaru Katra Akola HWC",
+    "address": "Jaru Katra Akola HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Akola",
+    "pincode": 283102,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "77f35d5a-4208-424e-a68b-5dab82ac6ab4",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 662696,
+    "name": "Roopdhanu Khandoli HWC",
+    "address": "Khandoli Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Khandoli",
+    "pincode": 282006,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "e4678869-3a66-4ac0-864b-3256fd32b87d",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658245,
+    "name": "Gobra Achnerra HWC",
+    "address": "Gobra Achnerra HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Achnera",
+    "pincode": 283101,
+    "lat": 0,
+    "long": 0,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "1d273110-d997-45da-9eea-c79c25fc1373",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658329,
+    "name": "Mohmmadpur Fatehabad HWC",
+    "address": "Mohmmadpur Fatehabad HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehabad",
+    "pincode": 283111,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "5b8b10d1-e377-44bd-8d49-a8cec5897d5a",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663851,
+    "name": "Bas Sona Khandoli HWC",
+    "address": "Bas Sona Khandoli HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Khandoli",
+    "pincode": 283126,
+    "lat": 25,
+    "long": 35,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "bc201ee0-b595-42ca-b6da-57ee4937792c",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 702424,
+    "name": "UPHC Raqabganj South 18 TO 44",
+    "address": "Raqabganj South Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282001,
+    "lat": 27,
+    "long": 78,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "e4a9a167-f490-4105-8622-c0772ddf3fdd",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 732561,
+    "name": "MAHILA SPECIAL AGR 01 45 PLUS",
+    "address": "LADYLOYAL RAJA KI MANDI MG ROAD AGRA",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282002,
+    "lat": 27,
+    "long": 78,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "7d7d81cc-ae7b-4e0f-b0f1-40d2d83479b5",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 697244,
+    "name": "CHC Fatehabad 18 To 44 Yr",
+    "address": "FATEHABAD",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehabad",
+    "pincode": 283111,
+    "lat": 27,
+    "long": 78,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "78f3a00e-3a75-476f-ab2c-1147c5fa5df3",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658333,
+    "name": "Rampur Fatehabad HWC",
+    "address": "Rampur Fatehabad HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehabad",
+    "pincode": 283111,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "30c5d985-d508-4939-bcbd-58f9c89472ab",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658265,
+    "name": "Aulenda Fatehpur HWC",
+    "address": "Aulenda Fatehpur HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehpur Sikri",
+    "pincode": 283110,
+    "lat": 27,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "21991228-1bc8-420a-9584-0309e47c71de",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 666438,
+    "name": "AGRA NAGAR NIGAM",
+    "address": "NAGAR NIGAM",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282002,
+    "lat": 27,
+    "long": 78,
+    "from": "10:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "1c349598-76e1-447b-820f-cf601f6d13bb",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-12:00PM",
+          "12:00PM-02:00PM",
+          "02:00PM-04:00PM",
+          "04:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 702406,
+    "name": "UPHC MANTOLA 18 TO 44 YR",
+    "address": "MANTOLA AGRA",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282003,
+    "lat": 27,
+    "long": 78,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "f2416cfe-4862-438b-b730-4262a64c934e",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 717586,
+    "name": "Moolchand Medcity Pvt Ltd Agra",
+    "address": "ArtoniMathura RoadNH 2Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282007,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Paid",
+    "sessions": [
+      {
+        "session_id": "6742c825-08da-4016-996e-d54449913a52",
+        "date": "19-06-2021",
+        "available_capacity": 61,
+        "min_age_limit": 45,
+        "vaccine": "COVAXIN",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 18,
+        "available_capacity_dose2": 43
+      },
+      {
+        "session_id": "76774e07-e2ee-443a-9aac-f2f2ab411b56",
+        "date": "19-06-2021",
+        "available_capacity": 79,
+        "min_age_limit": 18,
+        "vaccine": "COVAXIN",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 79
+      },
+      {
+        "session_id": "6b50748b-5b19-472e-8c4b-f4320c270099",
+        "date": "20-06-2021",
+        "available_capacity": 90,
+        "min_age_limit": 18,
+        "vaccine": "COVAXIN",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 90
+      },
+      {
+        "session_id": "739082bd-48ce-48e8-8d5f-cc7e7d84966e",
+        "date": "20-06-2021",
+        "available_capacity": 75,
+        "min_age_limit": 45,
+        "vaccine": "COVAXIN",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 26,
+        "available_capacity_dose2": 49
+      }
+    ],
+    "vaccine_fees": [
+      {
+        "vaccine": "COVAXIN",
+        "fee": "1410"
+      }
+    ]
+  },
+  {
+    "center_id": 702410,
+    "name": "UPHC Naripura 18 To 44 Yr",
+    "address": "NaripuraAgra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282001,
+    "lat": 27,
+    "long": 77,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "035ef362-b8dd-43e4-b95f-d345a620dc3d",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 708420,
+    "name": "TAJGANJ UPHC 18 TO 44 Yr",
+    "address": "TAJGANJ UPHC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282001,
+    "lat": 27,
+    "long": 78,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "fcea8fea-c989-4206-9575-95397690bf5c",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 613042,
+    "name": "UPHC Naripura Agra",
+    "address": "Naripura Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282001,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "ffbe0049-eb77-46b0-891a-09ab294bf8e2",
+        "date": "19-06-2021",
+        "available_capacity": 10,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 10
+      }
+    ]
+  },
+  {
+    "center_id": 658320,
+    "name": "Jamal Nagar ETMADPUR HWC",
+    "address": "Jawal Nagar Bhans Etmadpur HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Etmadpur",
+    "pincode": 283202,
+    "lat": 52,
+    "long": 54,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "38d75eeb-fd96-4396-89b2-346b4056ef70",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663876,
+    "name": "Bisaira Saiyan HWC",
+    "address": "Bisaira Saiyan HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Saiyan",
+    "pincode": 283125,
+    "lat": 24,
+    "long": 35,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "b1a5e097-c602-4163-9046-d08edcfeb7b3",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 610276,
+    "name": "CHC Etmadpur",
+    "address": "Etmadpur Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Etmadpur",
+    "pincode": 283202,
+    "lat": 27,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "bb045031-ca29-4b14-a139-644b40686d83",
+        "date": "19-06-2021",
+        "available_capacity": 20,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 12,
+        "available_capacity_dose2": 8
+      }
+    ]
+  },
+  {
+    "center_id": 610311,
+    "name": "CHC Kheragarh",
+    "address": "Kheragarh Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Kheragarh",
+    "pincode": 283121,
+    "lat": 26,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "9e7af020-bef6-4777-8ad8-93ab6f42c679",
+        "date": "19-06-2021",
+        "available_capacity": 23,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 15,
+        "available_capacity_dose2": 8
+      }
+    ]
+  },
+  {
+    "center_id": 658289,
+    "name": "Gangapur Jagner HWC",
+    "address": "Gangapur Jagner HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Jagner",
+    "pincode": 283115,
+    "lat": 26,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "d3227220-8d05-4f5d-ae6d-8e038129fd71",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658299,
+    "name": "Rasulpur Kheragarh HWC CVXN",
+    "address": "Rasulpur Kheragarh HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Kheragarh",
+    "pincode": 283121,
+    "lat": 24,
+    "long": 35,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "f7757cd0-6f77-4014-a0f1-dd36fc8d03f8",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658277,
+    "name": "Samoger Baroli Ahir HWC",
+    "address": "Samoger Baroli Ahir HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Baroli Ahir",
+    "pincode": 283125,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "6ba08caf-d7ea-44ea-aa36-115817f805e6",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658247,
+    "name": "Arua Khas Achnerra HWC",
+    "address": "Arua Khas Achnerra HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Achnera",
+    "pincode": 283101,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "d5d27454-5909-494b-b5b9-b647eeda5845",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658275,
+    "name": "Kachpura Baroli Ahir HWC",
+    "address": "Kachpura Baroli Ahir HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Baroli Ahir",
+    "pincode": 283125,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "5046ea6e-1752-4199-9632-fda2c1d1b46b",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 572890,
+    "name": "UPHC NAI KI SARAI",
+    "address": "TEDI BAGIYA AWALKHERA ROAD FRONT OF SHREERAM COLD STORE AGRA REENA 9897677548",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282006,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "ac9b299e-1b79-475b-a54b-6410af7bf97b",
+        "date": "19-06-2021",
+        "available_capacity": 10,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 10
+      }
+    ]
+  },
+  {
+    "center_id": 658292,
+    "name": "Cheet Kheragarh HWC",
+    "address": "Cheet Kheragarh HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Kheragarh",
+    "pincode": 283121,
+    "lat": 25,
+    "long": 24,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "ed390465-1dd6-4286-b38c-1965fc5b3473",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 749751,
+    "name": "BICHOLA HWC 45 Plus",
+    "address": "BICHOLA FATEHABAD AGRA",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehabad",
+    "pincode": 283111,
+    "lat": 25,
+    "long": 25,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "a624b202-a729-4bc9-aad8-a12042c51286",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 749756,
+    "name": "RASULPUR FATEHABAD 45 Plus",
+    "address": "RASULPUR FATEHABAD AGRA",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehabad",
+    "pincode": 283111,
+    "lat": 25,
+    "long": 52,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "06247ced-fd28-40da-9f46-9e96cfcc0bbd",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663864,
+    "name": "Savora Pinhat HWC",
+    "address": "Savora Pinhat HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Pinahat",
+    "pincode": 283125,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "e21ec116-4fa4-49ea-babd-e2561a77c289",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658301,
+    "name": "Soun Kheragarh HWC",
+    "address": "Soun Kheragarh HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Kheragarh",
+    "pincode": 283121,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "0a51cb3a-e4e6-416e-a444-4605ae4e513e",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663884,
+    "name": "Khera Rathor Jaitpurkalan HWC",
+    "address": "Khera Rathor Jaitpurkalan HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Jaitpur Kalan",
+    "pincode": 283114,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "7ca92043-d532-4412-82cd-602d4768dad2",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 661322,
+    "name": "Khanda Khandoli HWC",
+    "address": "Khandoli Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Khandoli",
+    "pincode": 283126,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "07a559b3-0780-4b7e-b2ff-577b54aa0969",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658286,
+    "name": "Tantpur Jagner HWC",
+    "address": "Tantpur Jagner HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Jagner",
+    "pincode": 283115,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "d62baadb-1ff5-4a5d-85cc-66f979866b70",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658269,
+    "name": "Singharpur Fatehpur HWC",
+    "address": "Singharpur Fatehpur HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehpur Sikri",
+    "pincode": 283110,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "8238d76a-fa40-4f31-aea7-a28181c590a3",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658296,
+    "name": "Nagla Dulekhan Kheragarh HWC",
+    "address": "Nagla Dulekhan Kheragarh HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Kheragarh",
+    "pincode": 283121,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "89afa06e-d8dc-49f9-b284-2482a49760ac",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 597686,
+    "name": "NAYA GHER UPHC",
+    "address": "Jal Sansthan Water Works Churaha Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282004,
+    "lat": 27,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "264ecd59-6476-4756-a385-88aabac97c2c",
+        "date": "19-06-2021",
+        "available_capacity": 10,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 10
+      }
+    ]
+  },
+  {
+    "center_id": 658264,
+    "name": "Choumuha Shapur Fatehpur HWC",
+    "address": "Choumuha Shapur Fatehpur HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehpur Sikri",
+    "pincode": 283110,
+    "lat": 27,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "50335b29-a3e0-456a-a5f9-d998341c853a",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663886,
+    "name": "Pyarampura Jaitpurkalan HWC",
+    "address": "Pyarampura Jaitpurkalan HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Jaitpur Kalan",
+    "pincode": 283114,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "6c27fdcc-1f75-4d77-bb47-e4fcc5aaf33b",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 722098,
+    "name": "ABHIBHAVAK SPECIAL 001(18-44)",
+    "address": "Shree Ma Anjana Sewa Sadan O47A Karamyogi EnclaveKamla Nagar VistarAgra(Exclusively For Parents Of Children Below 12 Years Of Age)",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282004,
+    "lat": 27,
+    "long": 78,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "35886968-5db1-4dc3-b9eb-38089da7e93e",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663854,
+    "name": "Gijoli Khandoli HWC",
+    "address": "Gijoli Khandoli HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Khandoli",
+    "pincode": 283126,
+    "lat": 24,
+    "long": 35,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "ee9d4297-5fd6-4f0d-8d06-70acca3e2475",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 731215,
+    "name": "MAHILA SPECIAL AGR 01 18 TO 44",
+    "address": "Mahila Special AGR 01(Exclusively For Women)LADYLOYAL RAJA KI MANDI MG ROAD AGRA",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282002,
+    "lat": 27,
+    "long": 78,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "1b516dda-a7cd-4e18-804f-2a3cffcc48d3",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663178,
+    "name": "Vikrampur Bah HWC",
+    "address": "Bah Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Bah",
+    "pincode": 283104,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "44879d30-6091-4c52-a36d-af5911b380c9",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 627248,
+    "name": "INDIAN AIRFORCE HOSPITAL",
+    "address": "IAF StaionAjit Nagar GateAgra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282008,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "fe3ddf21-b23c-4ad9-8f9d-3107828619cc",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658258,
+    "name": "Ujrai Akola HWC",
+    "address": "Ujrai Akola HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Akola",
+    "pincode": 283102,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "8683d47c-ecb4-4f9a-899f-625403c0bbef",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663848,
+    "name": "Chalesar Khandoli HWC",
+    "address": "Chalesar Khandoli HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Khandoli",
+    "pincode": 283126,
+    "lat": 27,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "0819185e-6d86-421b-aa42-e75471bbe991",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658328,
+    "name": "Dhimsri / Pntkra Fatehabad HWC",
+    "address": "Dhimsri Pntkra Fatehabad HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehabad",
+    "pincode": 283111,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "9f9d1122-ce45-403e-a7f7-6975b7e6e7bc",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658252,
+    "name": "Nagla Lal Das Achnerra HWC",
+    "address": "Nagla Lal Das Achnerra HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Achnera",
+    "pincode": 283101,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "5f5ed6ac-419e-43be-a018-e68e45ddce89",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 609292,
+    "name": "UPHC ISLAMNAGAR",
+    "address": "UPHC ISHLAMNAGAR AGRA TEDI BAGIA AGRA",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282006,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "bbbef636-6f5e-443f-8000-721dcebc2211",
+        "date": "19-06-2021",
+        "available_capacity": 10,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 10
+      }
+    ]
+  },
+  {
+    "center_id": 658244,
+    "name": "Babraud Achnerra HWC",
+    "address": "Babraud Achnerra HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Achnera",
+    "pincode": 283101,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "6a52275f-5005-491c-b4ef-5b36b5270f30",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663922,
+    "name": "Bamrouli Ahir Bichpuri HWC",
+    "address": "Bamrouli Ahir Bichpuri HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Bichpuri",
+    "pincode": 283105,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "3e1a260e-0fdf-4649-a315-f26c4c66d322",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658256,
+    "name": "Balhera Akola HWC",
+    "address": "Balhera Akola HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Akola",
+    "pincode": 283102,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "cc1f344b-e8e4-4387-b2ab-41ab7d83ea31",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658285,
+    "name": "Pachgai Khera Baroli Ahir HWC",
+    "address": "Pachgai Khera Baroli Ahir HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Baroli Ahir",
+    "pincode": 283125,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "f51ec7e0-b921-4e49-a4ea-26b548759005",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 612456,
+    "name": "SIKANDRA UPHC",
+    "address": "SIKANDRA UPHC Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282007,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "75325b17-ad09-4570-a677-393ad09ddd26",
+        "date": "19-06-2021",
+        "available_capacity": 3,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 3
+      }
+    ]
+  },
+  {
+    "center_id": 663861,
+    "name": "Nagla Bhari Pinhat HWC",
+    "address": "Nagla Bhari Pinhat HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Pinahat",
+    "pincode": 283123,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "612a140b-4df1-4c14-97c1-0b6f4bcb72ee",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658251,
+    "name": "Atoos Achnerra HWC",
+    "address": "Atoos Achnerra HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Achnera",
+    "pincode": 283101,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "70da0bd3-883c-457c-a399-5dd69c41fa09",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658270,
+    "name": "Devnagari Fatehpur HWC",
+    "address": "Devnagari Fatehpur HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehpur Sikri",
+    "pincode": 283110,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "72d6ddb0-0ffc-4f72-bb09-a08b3187eb78",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658311,
+    "name": "Lakhurani Shamsabad HWC",
+    "address": "Lakhurani Shamsabad HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Shamsabad",
+    "pincode": 283125,
+    "lat": 24,
+    "long": 35,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "a3ce3799-01ed-43ff-a700-286484e1721b",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658319,
+    "name": "Naya Baans Etmadpur HWC",
+    "address": "Naya Baans Etmadpur HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Etmadpur",
+    "pincode": 283202,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "433093ea-af2f-45e4-89b7-6114d44a0e3a",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663817,
+    "name": "Garsani Bichpuri HWC",
+    "address": "Garsani Bichpuri HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Bichpuri",
+    "pincode": 283105,
+    "lat": 54,
+    "long": 5,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "d732eccd-b6a9-4c48-b164-6dfcb5016be0",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658326,
+    "name": "Musepur Fatehabad HWC",
+    "address": "Musepur Fatehabad HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehabad",
+    "pincode": 283111,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "f08d42d6-95ca-4222-bd49-f606de009aaa",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 610714,
+    "name": "UPHC Haripravat West",
+    "address": "Awas Vikas Colony Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282007,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "b653a5f6-7e74-4439-bbb4-8217e7e61faf",
+        "date": "19-06-2021",
+        "available_capacity": 5,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 5
+      }
+    ]
+  },
+  {
+    "center_id": 658303,
+    "name": "Kutuk Pur Shamsabad HWC",
+    "address": "Kutuk Pur Shamsabad HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Shamsabad",
+    "pincode": 283125,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "19e6b6d4-6118-4dd5-9924-5a6d2d0c91b4",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 702378,
+    "name": "UPHC RAM NAGAR 18 TO 44 YR",
+    "address": "RAM NAGAR AGRA",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282010,
+    "lat": 27,
+    "long": 78,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "c1ccda65-5caa-4ad8-918a-2335e4359623",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 572360,
+    "name": "Bundukatra UPHC",
+    "address": "BUNDUKATRA AGRA Meera 9193336092",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282001,
+    "lat": 27,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "2c9d56c8-9ddb-4d3b-9dcb-85efbaa55cce",
+        "date": "19-06-2021",
+        "available_capacity": 10,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 10
+      }
+    ]
+  },
+  {
+    "center_id": 697257,
+    "name": "CHC Bichpuri 18 To 44 Yr",
+    "address": "Bichpuri",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Bichpuri",
+    "pincode": 283105,
+    "lat": 27,
+    "long": 77,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "242266f2-d477-46b1-aca4-8409c1e17244",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 609436,
+    "name": "CHC PINAHAT",
+    "address": "CHC PINAHAT  AGRA",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Pinahat",
+    "pincode": 283123,
+    "lat": 26,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "9a57da83-bad3-44b9-8374-27d05282e43a",
+        "date": "19-06-2021",
+        "available_capacity": 21,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 11,
+        "available_capacity_dose2": 10
+      }
+    ]
+  },
+  {
+    "center_id": 658257,
+    "name": "Lalau Akola HWC",
+    "address": "Lalau Akola HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Akola",
+    "pincode": 283102,
+    "lat": 2,
+    "long": 5,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "faf38727-59fe-4ddb-a249-af8d56b5b113",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 722111,
+    "name": "EKLAVYA STADIUM 45 PLUS Yr",
+    "address": "EKLAVYA STADIUM AGRA",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282001,
+    "lat": 27,
+    "long": 78,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "bff8de0e-2ec1-4618-86be-dbb8b4426609",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 609312,
+    "name": "UPHC JAGDEESHPURA AGRA",
+    "address": "UPHC JAGDEESHPURA NEAR JAGDISHPURA THANA",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282002,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "6c13863d-4f59-4609-8690-8deb6a1c5773",
+        "date": "19-06-2021",
+        "available_capacity": 6,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 6
+      }
+    ]
+  },
+  {
+    "center_id": 658316,
+    "name": "Behrampur Etmadpur HWC",
+    "address": "Behrampur Etmadpur HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Etmadpur",
+    "pincode": 283202,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "0faf2bae-78a5-43c6-80fb-ec0029e337fd",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 722103,
+    "name": "SIGHNA ACHNERA 45 PLUS Yr",
+    "address": "SIGHNA ACHNERA",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Achnera",
+    "pincode": 283101,
+    "lat": 27,
+    "long": 77,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "2766c4ac-fc2d-495a-88f1-f9fe542096c9",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 609340,
+    "name": "UPHC LOHAMANDI 1",
+    "address": "UPHC LOHAMANDI FIRST",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282002,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "fa3fa2f9-f717-41a4-9246-eb77d1d136a8",
+        "date": "19-06-2021",
+        "available_capacity": 10,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 10
+      }
+    ]
+  },
+  {
+    "center_id": 658262,
+    "name": "Mankenda Akola HWC",
+    "address": "Mankenda Akola HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Akola",
+    "pincode": 283102,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "3f708f52-d406-4866-81f2-49679cc0d079",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663866,
+    "name": "Arnota Pinhat HWC",
+    "address": "Arnota Pinhat HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Pinahat",
+    "pincode": 283125,
+    "lat": 24,
+    "long": 31,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "fbc56e55-69f1-4700-84c7-472885c194da",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 595668,
+    "name": "DEHTORA MOAD UPHC",
+    "address": "DEHTORA MOAD UPHC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282007,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "f37dffc1-4a90-412c-b524-f2276ee46849",
+        "date": "19-06-2021",
+        "available_capacity": 10,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 10
+      }
+    ]
+  },
+  {
+    "center_id": 572845,
+    "name": "RAM NAGAR UPHC",
+    "address": "RAM NAGAR AGRA SUKH DEVI 7983158261",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282002,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "61176147-fd01-4467-a90c-0b0f3d879bda",
+        "date": "19-06-2021",
+        "available_capacity": 9,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 9
+      }
+    ]
+  },
+  {
+    "center_id": 662471,
+    "name": "Narholi Bah HWC",
+    "address": "BahAgra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Bah",
+    "pincode": 283104,
+    "lat": 2,
+    "long": 1,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "45e6a9d6-20ad-4355-8ce5-4973e1300a39",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 597719,
+    "name": "TAJGANJ UPHC",
+    "address": "TAJGANJ UPHC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282001,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "f39f80cb-f010-4bdb-8b40-f79aced5c346",
+        "date": "19-06-2021",
+        "available_capacity": 9,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 9
+      }
+    ]
+  },
+  {
+    "center_id": 597702,
+    "name": "RAKBGANJ NORTH UPHC",
+    "address": "RAKBGANJ NORTH UPHC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282001,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "51ad37d6-3794-400b-b3c2-d3bc1564121f",
+        "date": "19-06-2021",
+        "available_capacity": 15,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 5,
+        "available_capacity_dose2": 10
+      }
+    ]
+  },
+  {
+    "center_id": 663857,
+    "name": "Viprawali Pinhat HWC",
+    "address": "Viprawali Pinhat HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Pinahat",
+    "pincode": 283123,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "effc3249-d469-4784-b56d-84eb17fb8652",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658282,
+    "name": "Budana Baroli Ahir HWC",
+    "address": "Budana Baroli Ahir HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Baroli Ahir",
+    "pincode": 283125,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "96a4f32d-7f7e-4f68-93e8-3e1a21d1c008",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 697256,
+    "name": "CHC Kirawali 18 To 44 Yr",
+    "address": "Kirawali",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Achnera",
+    "pincode": 283122,
+    "lat": 27,
+    "long": 77,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "9cec6f23-b348-4fd6-b818-11d52d9bd42c",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658317,
+    "name": "Mukhwar Etmadpur HWC",
+    "address": "Mukhwar Etmadpur HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Etmadpur",
+    "pincode": 283202,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "64bd6ea1-776c-4fcd-8506-4ccac99e8c70",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658261,
+    "name": "Baroda Sadar Akola HWC",
+    "address": "Baroda Sadar Akola HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Akola",
+    "pincode": 283102,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "c795a57f-b396-4d38-801a-c246f553e406",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658298,
+    "name": "Pahadi Kala Kheragarh HWC CVXN",
+    "address": "Pahadi Kala Kheragarh HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Kheragarh",
+    "pincode": 283121,
+    "lat": 24,
+    "long": 25,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "bf29603e-50fc-438f-af7a-c19676ce3f84",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 662905,
+    "name": "Jajau HWC Fatehapur Sikri",
+    "address": "Jajau Fatehpur Sikri",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Fatehpur Sikri",
+    "pincode": 283110,
+    "lat": 4,
+    "long": 52,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "ac7ecc7a-034d-43e0-a8ef-0db0334ad4c5",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658250,
+    "name": "Panwari Achnerra HWC",
+    "address": "Panwari Achnerra HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Achnera",
+    "pincode": 283101,
+    "lat": 2,
+    "long": 2,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "38922e15-f24e-4893-b54d-ead5cca81f46",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663862,
+    "name": "Husainpura Pinhat HWC",
+    "address": "Husainpura Pinhat HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Pinahat",
+    "pincode": 283123,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "4dbd6a73-9054-437d-b297-1fb536d7b586",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658272,
+    "name": "Digner Baroli Ahir HWC",
+    "address": "Digner Baroli Ahir HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Baroli Ahir",
+    "pincode": 283125,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "a918b355-10dd-463d-8b8e-e73da41890ee",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 610646,
+    "name": "CHC Bah",
+    "address": "Bah Agra",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Bah",
+    "pincode": 283104,
+    "lat": 26,
+    "long": 78,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "9d89f16a-e8f6-4b03-bc01-4a9b5332d785",
+        "date": "19-06-2021",
+        "available_capacity": 19,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 9,
+        "available_capacity_dose2": 10
+      }
+    ]
+  },
+  {
+    "center_id": 658254,
+    "name": "Biyara Achnerra HWC",
+    "address": "Biyara Achnerra HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Achnera",
+    "pincode": 283101,
+    "lat": 26,
+    "long": 80,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "e760a72d-dfc8-4049-8f73-f934c29333d7",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663844,
+    "name": "Pratappura Bah HWC",
+    "address": "Pratappura Bah HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Bah",
+    "pincode": 283104,
+    "lat": 55,
+    "long": 57,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "64e6450d-da12-4db1-93d8-52bb73f75575",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 663871,
+    "name": "Birharu Saiyan HWC",
+    "address": "Birharu Saiyan HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Saiyan",
+    "pincode": 283124,
+    "lat": 27,
+    "long": 77,
+    "from": "09:00:00",
+    "to": "17:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "cff1c17b-75d0-45d2-b490-c845f9bd829d",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-05:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 702386,
+    "name": "UPHC VIBHAV NAGAR CO 18 TO 44",
+    "address": "VIBHAV NAGAR",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Agra Urban",
+    "pincode": 282001,
+    "lat": 27,
+    "long": 78,
+    "from": "10:00:00",
+    "to": "16:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "e0c7b145-2f34-4ae1-afe7-0f2ff35ea3fb",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 18,
+        "vaccine": "COVAXIN",
+        "slots": [
+          "10:00AM-11:00AM",
+          "11:00AM-12:00PM",
+          "12:00PM-01:00PM",
+          "01:00PM-04:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  },
+  {
+    "center_id": 658308,
+    "name": "Toola Shamsabad HWC",
+    "address": "Toola Shamsabad HWC",
+    "state_name": "Uttar Pradesh",
+    "district_name": "Agra",
+    "block_name": "Shamsabad",
+    "pincode": 283125,
+    "lat": 24,
+    "long": 35,
+    "from": "09:00:00",
+    "to": "18:00:00",
+    "fee_type": "Free",
+    "sessions": [
+      {
+        "session_id": "a9a34b40-c32d-4aa9-9fba-c1f25a6c053b",
+        "date": "19-06-2021",
+        "available_capacity": 0,
+        "min_age_limit": 45,
+        "vaccine": "COVISHIELD",
+        "slots": [
+          "09:00AM-11:00AM",
+          "11:00AM-01:00PM",
+          "01:00PM-03:00PM",
+          "03:00PM-06:00PM"
+        ],
+        "available_capacity_dose1": 0,
+        "available_capacity_dose2": 0
+      }
+    ]
+  }
+]
